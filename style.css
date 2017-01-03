@@ -1,10 +1,31 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
+  font-family: "Avenir Next", Viga, serif;
+  font-weight: 350;
   background-image: url(https://4.bp.blogspot.com/_G4h3vXV1yBg/TIumqVXNAgI/AAAAAAAAAEE/iHfzLZ-d7l4/s1600/Empty+sky.jpg);
   background-repeat: repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+h1{
+  color: goldenrod;
+}
+h2{
+  color: khaki;
+}
+#summary{
+  color: lemonchiffon;
+}
+h3{
+  color: khaki;
+}
+h4{
+  color: lemonchiffon;
+}
+h5{
+  color: lemonchiffon;
+}
+.skillshobbies{
+  color: lemonchiffon;
 }
