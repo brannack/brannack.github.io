@@ -1,31 +1,27 @@
 body {
-  font-family: "Avenir Next", Viga, serif;
-  font-weight: 350;
-  background-image: url(https://4.bp.blogspot.com/_G4h3vXV1yBg/TIumqVXNAgI/AAAAAAAAAEE/iHfzLZ-d7l4/s1600/Empty+sky.jpg);
-  background-repeat: repeat;
+  margin-top: 10px;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto 20px auto;
+h1 {
+  font-size: 20px;
+  font-family: "Lato"
 }
-h1{
-  color: goldenrod;
+h2 {
+  font-size: 16px;
+  font-family: "Lato"
 }
-h2{
-  color: khaki;
+li {
+  font-family: "Lato"
 }
-#summary{
-  color: lemonchiffon;
+.attribution {
+  font-style: italic;
+  text-align: right;
 }
-h3{
-  color: khaki;
+#japanese {
+  font-style: italic;
 }
-h4{
-  color: lemonchiffon;
-}
-h5{
-  color: lemonchiffon;
-}
-.skillshobbies{
-  color: lemonchiffon;
+img {
+    padding-top: 20px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-left: 5px;
 }
