@@ -1,27 +1,47 @@
 body {
   margin-top: 10px;
+  background-color: #ddd8c4;
 }
 h1 {
   font-size: 20px;
-  font-family: "Lato"
+  font-family: "Lato";
+  color: #393d3f;
+  text-align: center;
 }
 h2 {
   font-size: 16px;
-  font-family: "Lato"
+  font-family: "Lato";
+  color: #393d3f;
+  text-align: center;
 }
 li {
-  font-family: "Lato"
-}
-.attribution {
-  font-style: italic;
-  text-align: right;
+  font-family: "Lato";
+  color: #393d3f;
+  text-align: center;
 }
 #japanese {
   font-style: italic;
 }
+.footer1 {
+   position: fixed;
+   bottom: 2px;
+   left: 0px;
+   width: 100%;
+   font-family: "Lato";
+   text-align: center;
+}
+.centered {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+a {
+     color: #393d3f;
+   }
 img {
-    padding-top: 20px;
+    padding-top: 5px;
     padding-right: 5px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     padding-left: 5px;
 }
